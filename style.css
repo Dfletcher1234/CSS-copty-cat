@@ -1,0 +1,107 @@
+html{
+  background-color: white;
+}
+main{
+  margin-left: 100px;
+  margin-right: 100px;
+  margin-top: 15px;
+}
+header {
+  background-color: #06D6A0;
+  height: 4em;
+  margin-bottom: 0px;
+}
+h2{
+  color: white;
+  padding: 
+
+}
+li{
+  display: inline-block;
+  color: blue;
+}
+nav  a{
+  display: inline;
+  /*float: right;*/
+  padding: 1em;
+  top: -1.5em;
+  position: relative;
+  left: 600px;
+  font-size: 20px;
+  /*right: -1.4em;*/
+}
+#welcome{
+  background-color: #26547C;
+  padding-bottom: 15px;
+
+}
+#welcome p {
+  float:right;
+  font-size: 30px;
+  color: white;
+  padding-right: 100px;
+  margin-bottom: 0;
+  }
+
+  #welcome img {
+    position: static;
+
+  }
+
+#cats{
+  overflow: hidden;
+  background-color: #FFD166;
+  margin-top: -8px;
+  padding-top: 8px;
+  position: relative;
+  padding-left: 1em;
+  padding-right: 1.5em;
+
+}
+#products{
+  background-color: #F2F2F2;
+  padding-left: 1em;
+  padding-top: 8px;
+  padding-bottom: 1em;
+
+}
+
+#products img {
+  height: 29%;
+  width: 29%;
+  display: inline-block;
+  margin-left: 1em;
+  padding-left: 4px;
+  border: 4px solid black;
+}
+h4{
+  color: pink;
+  display: inline-block;
+  text-align: center;
+  padding-left: 4em;
+  position: relative;
+  left: 150px;
+  font-size: 2em;
+}
+#values{
+  background-color:#26547C;
+  color: white;
+  padding-left: 1em;
+  padding-bottom: 2em;
+
+}
+#values p{
+  font-size: 20px;
+
+}
+footer{
+  background-color: #06D6A0;
+  height: 4em;
+}
+footer h3{
+  text-align: right;
+  padding-top: 1em;
+  margin-top: 0px;
+  padding-right: 1em;
+
+}
